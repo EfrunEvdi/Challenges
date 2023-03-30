@@ -10,3 +10,13 @@
 8) Simple Adding
 9) Letter Capitalize
 10) Simple Symbols
+11) Check Nums
+12) Time Convert
+13) Alphabet Soup
+14) AB Check
+15) Vowel Count
+16) Word Count
+17) Ex Oh 
+18) isPalindrome
+19) Arithmetic - Geometric
+20) Array Addition
