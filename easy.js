@@ -43,7 +43,7 @@ import { abCheck } from "./Easy/14_abCheck.js";
 import { vowelCount } from "./Easy/15_vowelCount.js";
 //console.log(vowelCount("All cows eat grass"));
 
-import { checkNums } from "./Easy/11_checkNumc.js";
+import { checkNums } from "./Easy/11_checkNums.js";
 //console.log(checkNums(2, 5));
 
 import { wordCount } from "./Easy/16_wordCount.js";
@@ -60,3 +60,9 @@ import { arithGeo } from "./Easy/19_arithGeo.js";
 
 import { arrayAddition } from "./Easy/20_arrayAddition.js";
 //console.log(arrayAddition([4, 6, 23, 10, 1, 3]));
+
+import { letterCount } from "./Easy/21_letterCount.js";
+console.log(
+  "%c" + letterCount("Today, is the greatest day ever!"),
+  "font-size:20px"
+);
