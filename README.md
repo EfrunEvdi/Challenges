@@ -20,3 +20,5 @@
 18) isPalindrome
 19) Arithmetic - Geometric
 20) Array Addition
+21) Letter Count
+22) Second Great Low
