@@ -62,7 +62,7 @@ import { arrayAddition } from "./Easy/20_arrayAddition.js";
 //console.log(arrayAddition([4, 6, 23, 10, 1, 3]));
 
 import { letterCount } from "./Easy/21_letterCount.js";
-console.log(
-  "%c" + letterCount("Today, is the greatest day ever!"),
-  "font-size:20px"
-);
+//console.log("%c" + letterCount("Today, is the greatest day ever!"),"font-size:20px");
+
+import { secondGreatLow } from "./Easy/22_secondGreatLow.js";
+console.log(secondGreatLow([7, 7, 12, 98, 106]));
