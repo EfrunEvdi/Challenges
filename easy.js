@@ -65,4 +65,7 @@ import { letterCount } from "./Easy/21_letterCount.js";
 //console.log("%c" + letterCount("Today, is the greatest day ever!"),"font-size:20px");
 
 import { secondGreatLow } from "./Easy/22_secondGreatLow.js";
-console.log(secondGreatLow([7, 7, 12, 98, 106]));
+//console.log(secondGreatLow([7, 7, 12, 98, 106]));
+
+import { divisionStringified } from "./Easy/23_divisionStringified.js";
+console.log(divisionStringified(123456789, 10000));
